@@ -2,8 +2,6 @@
 
 Papers, docs and source about blockchain.
 
-## original paper
+## papers
 
-![bitcoin.pdf](./docs/bitcoin.pdf)
-
-reprint from: https://bitcoin.org/bitcoin.pdf
+![papers](./papers)
