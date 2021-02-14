@@ -4,4 +4,4 @@ Papers, docs and source about blockchain.
 
 ## papers
 
-![papers](./papers)
+[papers](./papers)

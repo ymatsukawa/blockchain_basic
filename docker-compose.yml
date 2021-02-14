@@ -3,4 +3,4 @@ services:
   crypto:
     build: .
     volumes:
-      - ./crypto:/usr/src/bc/crypto
+      - ./arch/crypto:/usr/src/bc/crypto
