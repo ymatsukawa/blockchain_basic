@@ -1,6 +1,6 @@
 version: '3'
 services:
-  crypto:
+  bl:
     build: .
     volumes:
-      - ./arch/crypto:/usr/src/bc/crypto
+      - ./:/usr/src/bc
